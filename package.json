@@ -1,8 +1,13 @@
 {
   "name": "swlegion-tts-mod",
   "scripts": {
-    "embed": "npx ts-node script/index.ts embed mod/src mod/StarWarsLegion.json",
-    "extract": "npx ts-node script/index.ts extract mod/StarWarsLegion.json mod/src"
+    "build": "ts-node ./tool/build.ts",
+    "extract": "ts-node ./tool/extract.ts",
+    "fix": "prettier --write . --ignore-path .prettierignore && eslint --fix src tool --ext .ts",
+    "link": "ts-node ./tool/link.ts",
+    "lint": "prettier --ignore-path .prettierignore --list-different src && eslint src tool --ext .ts",
+    "serve": "http-server ./assets",
+    "start": "ts-node ./tool/start.ts"
   },
   "license": "MIT",
   "bugs": {
@@ -10,23 +15,41 @@
   },
   "homepage": "https://github.com/swlegion/tts",
   "devDependencies": {
+    "@matanlurey/tts-editor": "github:matanlurey/tts-editor#dist",
+    "@matanlurey/tts-expander": "github:matanlurey/tts-expander#dist",
+    "@matanlurey/tts-runner": "github:matanlurey/tts-runner#dist",
+    "@matanlurey/tts-save-files": "github:matanlurey/tts-save-format",
     "@types/clear": "^0.1.0",
     "@types/figlet": "^1.2.0",
     "@types/fs-extra": "^8.0.0",
+    "@types/minimist": "^1.2.1",
     "@types/mkdirp": "^0.5.2",
     "@types/node": "^12.7.8",
     "@types/sanitize-filename": "^1.6.3",
+    "@types/shelljs": "^0.8.8",
+    "@typescript-eslint/eslint-plugin": "^4.11.0",
+    "@typescript-eslint/parser": "^4.11.0",
     "chalk": "^2.4.2",
     "clear": "^0.1.0",
     "commander": "^3.0.2",
     "detect-newline": "^3.0.0",
+    "eslint": "^7.16.0",
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-json": "^2.1.2",
+    "eslint-plugin-prettier": "^3.3.0",
     "figlet": "^1.2.4",
     "fs-extra": "^8.1.0",
-    "mkdirp": "^0.5.1",
+    "minimist": "^1.2.5",
+    "mkdirp": "^1.0.4",
     "nodemon": "^1.19.2",
     "path": "^0.12.7",
     "sanitize-filename": "^1.6.3",
+    "shelljs": "^0.8.4",
     "ts-node": "^8.4.1",
     "typescript": "^3.6.3"
+  },
+  "dependencies": {
+    "make-promises-safe": "^5.1.0"
   }
 }
