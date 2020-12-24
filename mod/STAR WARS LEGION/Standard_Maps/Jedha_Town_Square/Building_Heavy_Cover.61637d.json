@@ -1,0 +1,51 @@
+{
+  "Object": {
+    "Name": "Custom_Model",
+    "Transform": {
+      "posX": 3.47084951,
+      "posY": 1.43739307,
+      "posZ": -13.0139475,
+      "rotX": -0.00107235217,
+      "rotY": 134.987732,
+      "rotZ": 0.00118258572,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "Building [Heavy Cover]",
+    "Description": "Heavy Cover:\nAll\n\nHeight: 2\nBalcony Height: 1\n\nSides: \nAll - Impassable\n\nRoof:\nTroop - Difficult\nG. Vehicle - Difficult\nRepulsor - Open\n\nMinis can clamber up the ladder without rolling for falling damage\n\nRight-Click and switch states to access different levels\n\nSpecial Thanks: corvusgamesterrain.com",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0.896014869,
+      "g": 0.896014869,
+      "b": 0.896014869
+    },
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomMesh": {
+      "MeshURL": "http://cloud-3.steamusercontent.com/ugc/966480765117279916/ED85FC32D0497AD7501427F2F5D4E6DE61353622/",
+      "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/966480765117280030/9B06FDF05FF852077DB39C5DD0F5563460684595/",
+      "NormalURL": "",
+      "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/966480765117280164/C7B94D647E40FC44C5B2BB5383EA91B854209EA9/",
+      "Convex": true,
+      "MaterialIndex": 3,
+      "TypeIndex": 0,
+      "CastShadows": true
+    },
+    "LuaScript": "#include ./Building_Heavy_Cover.61637d.lua",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "GUID": "61637d"
+  },
+  "StatesPaths": {}
+}

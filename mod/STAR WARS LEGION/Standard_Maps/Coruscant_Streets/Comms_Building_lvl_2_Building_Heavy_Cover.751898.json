@@ -1,0 +1,51 @@
+{
+  "Object": {
+    "Name": "Custom_Model",
+    "Transform": {
+      "posX": 7.311816,
+      "posY": 3.49840879,
+      "posZ": -0.798151,
+      "rotX": 0.000457834045,
+      "rotY": 179.999817,
+      "rotZ": -0.001241305,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "Comms Building lvl 2 (Building) [Heavy Cover]",
+    "Description": "Heavy Cover:\nAll\n\nSides:\nAll - Impassable\n\nRoof:\nAll - Open\n\nLadders can be clambered up without rolling for falling damage\n\nHeight: 2\n\nSpecial Thanks: www.imperialterrain.com",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0.9361389,
+      "g": 0.978713,
+      "b": 1
+    },
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomMesh": {
+      "MeshURL": "http://cloud-3.steamusercontent.com/ugc/785234540546357378/EF45DE36D9238FE2D76F66F34D120FDB1AF20DCF/",
+      "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/785234540546357512/D37AD8A7B05DA682F1AA251163A2E02C50906AE5/",
+      "NormalURL": "",
+      "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/785234540546357682/F85942A3BCA4115AB553A17526E39014BB6755D5/",
+      "Convex": false,
+      "MaterialIndex": 3,
+      "TypeIndex": 0,
+      "CastShadows": true
+    },
+    "LuaScript": "#include ./Comms_Building_lvl_2_Building_Heavy_Cover.751898.lua",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "GUID": "751898"
+  },
+  "StatesPaths": {}
+}

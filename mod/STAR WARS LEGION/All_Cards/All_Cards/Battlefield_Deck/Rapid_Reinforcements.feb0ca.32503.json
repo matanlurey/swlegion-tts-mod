@@ -1,0 +1,54 @@
+{
+  "Object": {
+    "Name": "Card",
+    "Transform": {
+      "posX": 50.82814,
+      "posY": 1.19702578,
+      "posZ": 31.7671776,
+      "rotX": -0.00347095216,
+      "rotY": 269.986,
+      "rotZ": 0.000715353643,
+      "scaleX": 0.741101742,
+      "scaleY": 1,
+      "scaleZ": 0.741101742
+    },
+    "Nickname": "Rapid Reinforcements",
+    "Description": "",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": true,
+    "Hands": true,
+    "CardID": 32503,
+    "SidewaysCard": false,
+    "CustomDeck": {
+      "325": {
+        "FaceURL": "http://cloud-3.steamusercontent.com/ugc/785234780864105506/C25CC992198776A0C941BB10D1B7CCB675B24966/",
+        "BackURL": "http://cloud-3.steamusercontent.com/ugc/786360308354563381/FF7DF081311A20CC396CAC9391D85EB1FBCA44E1/",
+        "NumWidth": 3,
+        "NumHeight": 2,
+        "BackIsHidden": true,
+        "UniqueBack": false,
+        "Type": 0
+      }
+    },
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "GUID": "feb0ca"
+  },
+  "StatesPaths": {}
+}

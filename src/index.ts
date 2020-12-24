@@ -9,30 +9,6 @@ require('make-promises-safe');
 
 const outputFile = 'StarWarsLegion.json';
 
-function banNonLocalOrMissingUrls(
-  assetsPrefix: string,
-): (url: string) => boolean {
-  return (url: string): boolean => {
-    if (!url.startsWith(assetsPrefix)) {
-      console.error(
-        'Do not submit references to non-local assets',
-        url,
-        `(Required: ${assetsPrefix})`,
-        '\n',
-      );
-      return false;
-    }
-    const pathToFile = path.normalize(
-      path.join(path.resolve('assets'), url.substring(assetsPrefix.length)),
-    );
-    if (!fs.existsSync(pathToFile)) {
-      console.error('Could not resolve asset', pathToFile, '\n');
-      return false;
-    }
-    return true;
-  };
-}
-
 /**
  * Builds the mod from `mod/` to `dist/`, returning the tree.
  */

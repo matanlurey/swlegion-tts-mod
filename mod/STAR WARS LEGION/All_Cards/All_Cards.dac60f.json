@@ -1,0 +1,50 @@
+{
+  "Object": {
+    "Name": "Bag",
+    "Transform": {
+      "posX": 57.3670349,
+      "posY": 2.85832548,
+      "posZ": 29.1529179,
+      "rotX": 0.130442381,
+      "rotY": 0.002315843,
+      "rotZ": 0.6494297,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "All Cards",
+    "Description": "Unit, Upgrade, Command, and Battle Card Decks (Complete). Use these for proxying, to fix mistakes, or whatever you want!",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0.7058823,
+      "g": 0.366520882,
+      "b": 0
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "MaterialIndex": -1,
+    "MeshIndex": -1,
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "ContainedObjects": [],
+    "GUID": "dac60f"
+  },
+  "StatesPaths": {},
+  "ContainedObjectPaths": [
+    "Battlefield_Deck.cf6716.json",
+    "Units.0d22a2.json",
+    "Upgrades.de1061.json",
+    "Command_Cards.3301e4.json"
+  ]
+}

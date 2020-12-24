@@ -1,0 +1,52 @@
+{
+  "Object": {
+    "Name": "Bag",
+    "Transform": {
+      "posX": 56.9036179,
+      "posY": 3.18374848,
+      "posZ": 26.1699238,
+      "rotX": -0.00000358483271,
+      "rotY": 345.000549,
+      "rotZ": -1.200986e-7,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "Outpost Walls",
+    "Description": "",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0.7058823,
+      "g": 0.366520882,
+      "b": 0
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "MaterialIndex": -1,
+    "MeshIndex": -1,
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "ContainedObjects": [],
+    "GUID": "37ac3d"
+  },
+  "StatesPaths": {},
+  "ContainedObjectPaths": [
+    "Outpost_Gate_Heavy_Cover.a2445c.json",
+    "Outpost_Wall_Heavy_Cover.48e3d9.json",
+    "Outpost_Wall_Heavy_Cover.eab562.json",
+    "Outpost_Wall_Corner_Heavy_Cover.14b92c.json",
+    "Outpost_Wall_Heavy_Cover.73fdad.json",
+    "Outpost_Wall_Heavy_Cover.c67355.json"
+  ]
+}

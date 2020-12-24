@@ -1,0 +1,50 @@
+{
+  "Object": {
+    "Name": "Bag",
+    "Transform": {
+      "posX": 50.93994,
+      "posY": 2.818832,
+      "posZ": 34.217823,
+      "rotX": 359.0353,
+      "rotY": 0.0329722352,
+      "rotZ": 0.6111092,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "Vehicles",
+    "Description": "",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0.7058823,
+      "g": 0.366520882,
+      "b": 0
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "MaterialIndex": -1,
+    "MeshIndex": -1,
+    "LuaScript": "#include ./Vehicles.a66f4f.lua",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "ContainedObjects": [],
+    "GUID": "a66f4f"
+  },
+  "StatesPaths": {},
+  "ContainedObjectPaths": [
+    "Destroyed_LAAT_Gunship_Heavy_Cover.6b3dff.json",
+    "YT-1300_Heavy_Cover.a07da5.json",
+    "T-65_X-Wing_Light_Heavy_Cover.a9c4f9.json",
+    "Lambda-Class_Shuttle_Heavy_Cover.b97275.json"
+  ]
+}

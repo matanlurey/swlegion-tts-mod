@@ -1,0 +1,51 @@
+{
+  "Object": {
+    "Name": "Custom_Model",
+    "Transform": {
+      "posX": 55.5812721,
+      "posY": 1.48558819,
+      "posZ": 7.63886642,
+      "rotX": -2.04848334e-7,
+      "rotY": 179.999863,
+      "rotZ": -3.88984276e-8,
+      "scaleX": 0.5000005,
+      "scaleY": 0.5000005,
+      "scaleZ": 0.5000005
+    },
+    "Nickname": "Holo Ad [Light Cover]",
+    "Description": "Light Cover:\nMini size 2.5 and below\n\nHolo Ad:\nAll - Open\n\nHeight: 1\n",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomMesh": {
+      "MeshURL": "http://cloud-3.steamusercontent.com/ugc/966480765117281287/FE6D969EB9014EEE02916154A775469B2A381F31/",
+      "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/966480765117281369/B0612E36DEB816FDBD752AC0358BB7DD9BAA77C5/",
+      "NormalURL": "",
+      "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/966480765118137573/D03094B2A9211D19A8BD811A3B6C5558A57B43BD/",
+      "Convex": true,
+      "MaterialIndex": 3,
+      "TypeIndex": 0,
+      "CastShadows": true
+    },
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "XmlUI": "#include ./Holo_Ad_Light_Cover.327b1c.xml",
+    "GUID": "327b1c"
+  },
+  "StatesPaths": {}
+}

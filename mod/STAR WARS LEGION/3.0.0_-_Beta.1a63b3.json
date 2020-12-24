@@ -1,0 +1,41 @@
+{
+  "Object": {
+    "Name": "Notecard",
+    "Transform": {
+      "posX": 5.683617,
+      "posY": 1.01903629,
+      "posZ": 2.80763435,
+      "rotX": -0.00000476992227,
+      "rotY": 0.0041496437,
+      "rotZ": -0.00000131222691,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "3.0.0 - Beta",
+    "Description": "Flaw card as upgrade option, spawns card in as upgrade size, but works the same for anakin's flaw.\n\nAdded DRK Probe Droids, T Series upgrade\n\nUpdated most errata'd units, upgrades, and commands\n\nPoints have been updated.",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "GUID": "1a63b3"
+  },
+  "StatesPaths": {}
+}

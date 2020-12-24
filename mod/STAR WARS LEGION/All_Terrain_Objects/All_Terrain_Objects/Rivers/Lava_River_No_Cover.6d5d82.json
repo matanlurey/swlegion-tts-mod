@@ -1,0 +1,53 @@
+{
+  "Object": {
+    "Name": "Custom_Token",
+    "Transform": {
+      "posX": 100.721115,
+      "posY": 24.6356888,
+      "posZ": -42.626133,
+      "rotX": 5.22469747e-7,
+      "rotY": 45.0359268,
+      "rotZ": 180,
+      "scaleX": 2.987446,
+      "scaleY": 1,
+      "scaleZ": 2.987446
+    },
+    "Nickname": "Lava River [No Cover]",
+    "Description": "No Cover:\nAll\n\nLava River:\nTroopers - Difficult\nG. Vehicle - Difficult\nRepulsor - Open\n\nNon-Repulsor units that enter, cross or leave this terrain must roll one white defence die per mini in the unit. For each block result, the unit suffers one wound (Clamber).\n\nNon-Repulsor units may instead spend 2 actions to move over this terrain safely.",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomImage": {
+      "ImageURL": "http://cloud-3.steamusercontent.com/ugc/785234780858807370/C71FA62EA3716D7E52CA23E3766D5F715FEA0068/",
+      "ImageSecondaryURL": "",
+      "ImageScalar": 1,
+      "WidthScale": 0,
+      "CustomToken": {
+        "Thickness": 0.2,
+        "MergeDistancePixels": 15,
+        "StandUp": false,
+        "Stackable": false
+      }
+    },
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "GUID": "6d5d82"
+  },
+  "StatesPaths": {}
+}

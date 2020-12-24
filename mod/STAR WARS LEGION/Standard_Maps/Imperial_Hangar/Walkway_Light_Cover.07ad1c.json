@@ -1,0 +1,54 @@
+{
+  "Object": {
+    "Name": "Custom_Model",
+    "Transform": {
+      "posX": 18.76017,
+      "posY": 1.45172,
+      "posZ": -9.806525,
+      "rotX": 0.00031892382,
+      "rotY": 0.0237393714,
+      "rotZ": -0.00008236506,
+      "scaleX": 1.171895,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "Walkway [Light Cover]",
+    "Description": "Light Cover:\nNon-Creature Troopers\n\nSides:\nTrooper: Difficult\nGround Vehicle: Open\nRepulsor: Open\n\nPlatform:\nAll - Open\n\nHeight: 1\n\nRight-Click and switch states to access different levels\n\nSpecial thanks to www.youtube.com/tabletopoddity",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0.349018723,
+      "g": 0.349018723,
+      "b": 0.349018723
+    },
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomMesh": {
+      "MeshURL": "http://cloud-3.steamusercontent.com/ugc/785234780857934075/67F7C0F3E85631B8F905462331257564ADE7F101/",
+      "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/785234780857945775/3005C4F30CA2D9ADBBD18789023A30888FDA4DA5/",
+      "NormalURL": "",
+      "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/785234780857945420/BD98F26583D35B354CE52BC7F624EFD69FF167A7/",
+      "Convex": true,
+      "MaterialIndex": 3,
+      "TypeIndex": 0,
+      "CastShadows": true
+    },
+    "LuaScript": "#include ./Walkway_Light_Cover.07ad1c.lua",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "GUID": "07ad1c",
+    "States": {}
+  },
+  "StatesPaths": {
+    "1": "Walkway_Light_Cover.03968b.json"
+  }
+}

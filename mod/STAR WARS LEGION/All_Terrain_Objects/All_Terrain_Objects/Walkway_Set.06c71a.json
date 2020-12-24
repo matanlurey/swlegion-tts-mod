@@ -1,0 +1,51 @@
+{
+  "Object": {
+    "Name": "Bag",
+    "Transform": {
+      "posX": 38.95712,
+      "posY": 3.33559132,
+      "posZ": 10.8969259,
+      "rotX": 0.08973116,
+      "rotY": 359.956177,
+      "rotZ": 0.0785257,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "Walkway Set",
+    "Description": "",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0.7058823,
+      "g": 0.366520882,
+      "b": 0
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "MaterialIndex": -1,
+    "MeshIndex": -1,
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "ContainedObjects": [],
+    "GUID": "06c71a"
+  },
+  "StatesPaths": {},
+  "ContainedObjectPaths": [
+    "Platform_Light_Cover.8ffcdf.json",
+    "Platform_Light_Cover.2c4834.json",
+    "Walkway_Light_Cover.b2d88d.json",
+    "Stairs_Light_Cover.5076d5.json",
+    "Ladder_Light_Cover.97512a.json"
+  ]
+}

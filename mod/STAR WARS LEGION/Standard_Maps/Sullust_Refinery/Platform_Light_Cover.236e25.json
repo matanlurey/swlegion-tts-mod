@@ -1,0 +1,53 @@
+{
+  "Object": {
+    "Name": "Custom_Model",
+    "Transform": {
+      "posX": -6.77322,
+      "posY": 1.45421529,
+      "posZ": 9.86726,
+      "rotX": 0.00167923223,
+      "rotY": 180.008575,
+      "rotZ": 0.0000103791162,
+      "scaleX": 1,
+      "scaleY": 1.0870949,
+      "scaleZ": 1
+    },
+    "Nickname": "Platform [Light Cover]",
+    "Description": "Platform\nAll: Open\n\nStruts\nAll: Impassable\n\nHeight: 1\n\nRight Click > State > 1 to activate different levels!\n\nSpecial thanks to www.youtube.com/tabletopoddity",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0.8768374,
+      "g": 0.8768374,
+      "b": 0.8768374
+    },
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "Hands": false,
+    "CustomMesh": {
+      "MeshURL": "http://cloud-3.steamusercontent.com/ugc/785234780857961018/CE3D6EAF19CD2CBD1BBB278AD8F5361BF471E088/",
+      "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/785234780857961488/1CA1F243AF929A1C1879D3F8EC5FF81A4C1C0105/",
+      "NormalURL": "",
+      "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/785234780857962047/E80A2F3F0F15E46609122CBD59E58C71DB4600FD/",
+      "Convex": true,
+      "MaterialIndex": 3,
+      "TypeIndex": 0,
+      "CastShadows": true
+    },
+    "LuaScript": "#include ./Platform_Light_Cover.236e25.lua",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "GUID": "236e25",
+    "States": {}
+  },
+  "StatesPaths": {
+    "1": "Platform_Light_Cover.b73e7f.json"
+  }
+}

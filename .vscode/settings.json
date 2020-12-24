@@ -31,12 +31,23 @@
   "eslint.validate": ["javascript", "json", "typescript"],
   "eslint.lintTask.enable": true,
   "editor.tabSize": 2,
+  "cSpell.ignorePaths": [
+    "contrib/**",
+    "dist/**",
+    "**/package-lock.json",
+    "**/node_modules/**",
+    "**/vscode-extension/**",
+    "**/.git/objects/**",
+    ".vscode",
+    ".vscode-insiders"
+  ],
   "cSpell.words": [
     "Lucasfilm",
     "Tieren",
     "Tierens",
     "autoexec",
     "gameplay",
+    "interopability",
     "prettierignore",
     "swlegion"
   ]

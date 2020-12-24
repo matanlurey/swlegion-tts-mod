@@ -1,0 +1,41 @@
+{
+  "Object": {
+    "Name": "Notecard",
+    "Transform": {
+      "posX": 13.0022173,
+      "posY": 1.01903629,
+      "posZ": 2.766702,
+      "rotX": 0.00000352467669,
+      "rotY": 0.004767314,
+      "rotZ": -5.74029457e-7,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "3.0.0 - Beta",
+    "Description": "Generic Imperial Officer now defaults to speed 2.\n\nMovement tool spawns with the correct speed when cycling between different unit types (i.e. Shores/Mortars).",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "GUID": "c54cdf"
+  },
+  "StatesPaths": {}
+}

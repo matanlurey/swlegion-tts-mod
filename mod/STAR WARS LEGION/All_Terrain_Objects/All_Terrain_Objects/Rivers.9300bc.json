@@ -1,0 +1,53 @@
+{
+  "Object": {
+    "Name": "Bag",
+    "Transform": {
+      "posX": 51.1573219,
+      "posY": 2.82234335,
+      "posZ": 35.1051178,
+      "rotX": 0.9201654,
+      "rotY": 0.05986296,
+      "rotZ": 1.26116538,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "Rivers",
+    "Description": "",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0.7058823,
+      "g": 0.366520882,
+      "b": 0
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "MaterialIndex": -1,
+    "MeshIndex": -1,
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "ContainedObjects": [],
+    "GUID": "9300bc"
+  },
+  "StatesPaths": {},
+  "ContainedObjectPaths": [
+    "Lava_River_No_Cover.879084.json",
+    "Lava_River_No_Cover.6d5d82.json",
+    "Lava_River_No_Cover.1c63d8.json",
+    "Lava_River_No_Cover.aa0b04.json",
+    "Lava_River_No_Cover.7f93bd.json",
+    "River_No_Cover.86014e.json",
+    "Stream_No_Cover.6924b5.json"
+  ]
+}

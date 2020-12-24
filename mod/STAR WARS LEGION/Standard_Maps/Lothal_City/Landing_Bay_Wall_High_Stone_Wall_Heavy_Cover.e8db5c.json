@@ -1,0 +1,51 @@
+{
+  "Object": {
+    "Name": "Custom_Model",
+    "Transform": {
+      "posX": 34.5024261,
+      "posY": 1.44632566,
+      "posZ": -6.85897827,
+      "rotX": -0.0000112199014,
+      "rotY": 89.9893951,
+      "rotZ": 0.00126204267,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "Landing Bay Wall (High Stone Wall) [Heavy Cover]",
+    "Description": "Trooper: Impassable\nGround Vehicle: Impassable\nRepulsor: Impassable\n\nHeight: 1\n\nTroopers cannot end movement on top of walls. Troopers (and AT-RTs) can spend 2 actions to clamber over to the otherside.\nTroopers roll 1 white defence die per mini for falling damage.\n\nAT-STs treat this as difficult terrain.\n\nLock this for proper colliders\n\nSpecial Thanks: www.imperialterrain.com",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0.81,
+      "g": 0.81,
+      "b": 0.81
+    },
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomMesh": {
+      "MeshURL": "http://cloud-3.steamusercontent.com/ugc/785234540546191284/7B9C74EAD7CF585C6683C830F04341AFD9121D1A/",
+      "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/785234540546191426/810AD32FB5584CB1A769194A854E8182BCD00C3C/",
+      "NormalURL": "",
+      "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/785234540546191549/952ECC6F2CC530AD59964DA55483EA2A3C406130/",
+      "Convex": true,
+      "MaterialIndex": 3,
+      "TypeIndex": 0,
+      "CastShadows": true
+    },
+    "LuaScript": "#include ./Landing_Bay_Wall_High_Stone_Wall_Heavy_Cover.e8db5c.lua",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "GUID": "e8db5c"
+  },
+  "StatesPaths": {}
+}

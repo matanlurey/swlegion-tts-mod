@@ -1,0 +1,53 @@
+{
+  "Object": {
+    "Name": "Bag",
+    "Transform": {
+      "posX": 49.1666374,
+      "posY": 2.835267,
+      "posZ": 28.6723843,
+      "rotX": -0.002817333,
+      "rotY": 344.989258,
+      "rotZ": 0.1674585,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "Trees and Woods",
+    "Description": "",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0.7058823,
+      "g": 0.366520882,
+      "b": 0
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "MaterialIndex": -1,
+    "MeshIndex": -1,
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "ContainedObjects": [],
+    "GUID": "38ee99"
+  },
+  "StatesPaths": {},
+  "ContainedObjectPaths": [
+    "Kashyyyk_Tree_House_Light_Cover.e1f241.json",
+    "Fallen_Trunk_Light_Cover.8c72df.json",
+    "Sparse_Woods_Light_Cover_Area_Terrain.ede6f7.json",
+    "Redwood_Tree_Light_Cover.0ebd8c.json",
+    "Dense_Woods_Heavy_Cover_Area_Terrain.0bc691.json",
+    "Mound.c56ec8.json",
+    "Mound.29f75f.json"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "Object": {
+    "Name": "Custom_Model",
+    "Transform": {
+      "posX": 25.91758,
+      "posY": 3.00291014,
+      "posZ": 1.344243,
+      "rotX": 0.071322,
+      "rotY": 269.994415,
+      "rotZ": 0.1177842,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "Building [Heavy Cover]",
+    "Description": "Heavy Cover:\nMinis Size 5 and below\n\nSides\nTrooper - Impassable\nGround Vehicle - Impassable\nRepulsor - Impassable\n\nMinis with size > 5 treat this as difficult terrain\n\nTop:\nAll - Open\n\nHeight: 1\n\nSpecial Thanks: corvusgamesterrain.com",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomMesh": {
+      "MeshURL": "http://cloud-3.steamusercontent.com/ugc/966480765117277319/A509052DD7575353BDCAE50010DF0EEC6D965413/",
+      "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/966480765117277483/C2B2549195C85787F4A4BB490B496329BDFE1433/",
+      "NormalURL": "",
+      "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/966480765117277720/ADD6E74B593B09F8D9D5ED75E6020B04342250EF/",
+      "Convex": true,
+      "MaterialIndex": 3,
+      "TypeIndex": 0,
+      "CastShadows": true
+    },
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "GUID": "332099"
+  },
+  "StatesPaths": {}
+}

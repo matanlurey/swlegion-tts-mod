@@ -1,0 +1,56 @@
+{
+  "Object": {
+    "Name": "Bag",
+    "Transform": {
+      "posX": 51.434166,
+      "posY": 2.82051182,
+      "posZ": 35.2763138,
+      "rotX": 1.44927764,
+      "rotY": -0.002231761,
+      "rotZ": 359.740845,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "Bespin",
+    "Description": "",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0.7058823,
+      "g": 0.366520882,
+      "b": 0
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "MaterialIndex": -1,
+    "MeshIndex": -1,
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "ContainedObjects": [],
+    "GUID": "ac3afc"
+  },
+  "StatesPaths": {},
+  "ContainedObjectPaths": [
+    "Bespin_Wall_High_Stone_Wall_Heavy_Cover.cac618.json",
+    "Fountain_Heavy_Cover.940806.json",
+    "Bespin_Office_Heavy_Cover.5bbc4d.json",
+    "Bench_Heavy_Cover.4c90c0.json",
+    "Plant_Divider_Heavy_Cover.66a59b.json",
+    "Bespin_Wall_Heavy_Cover.9f69c8.json",
+    "Custom_Model.1f00d1.json",
+    "Custom_Model.09bd89.json",
+    "Small_Park_Light_Cover_Area_Terrain.366342.json",
+    "Custom_Model.e58d4e.json"
+  ]
+}

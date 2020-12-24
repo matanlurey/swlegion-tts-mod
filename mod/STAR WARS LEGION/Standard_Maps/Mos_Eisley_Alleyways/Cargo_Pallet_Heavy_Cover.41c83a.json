@@ -1,0 +1,50 @@
+{
+  "Object": {
+    "Name": "Custom_Model",
+    "Transform": {
+      "posX": -14.5223446,
+      "posY": 1.50204265,
+      "posZ": -9.27884,
+      "rotX": 1.62509048,
+      "rotY": 179.976166,
+      "rotZ": 359.617157,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "Cargo Pallet [Heavy Cover]",
+    "Description": "Cover Type: Heavy\n\nTrooper: Difficult\nGround Vehicle: Difficult\nRepulsor: Open\n\nOnly Crates provide Cover, obscure LOS and hinder Movement, Pallets on the ground have no effect",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "Hands": false,
+    "CustomMesh": {
+      "MeshURL": "http://cloud-3.steamusercontent.com/ugc/785234540542828699/2CE5437BAF7960D8E76D0A664182637B7ADE8C7D/",
+      "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/785234540542822457/CC3F0DC02DD35143BD5DAF27A694D9EC1BA6A98A/",
+      "NormalURL": "",
+      "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/785234540542823541/5F7BBC41E9FB517BE41C845282B3A731EB050150/",
+      "Convex": true,
+      "MaterialIndex": 3,
+      "TypeIndex": 0,
+      "CastShadows": true
+    },
+    "LuaScript": "#include ./Cargo_Pallet_Heavy_Cover.41c83a.lua",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "GUID": "41c83a"
+  },
+  "StatesPaths": {}
+}

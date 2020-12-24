@@ -1,0 +1,51 @@
+{
+  "Object": {
+    "Name": "Custom_Model",
+    "Transform": {
+      "posX": -19.3796043,
+      "posY": 1.44343269,
+      "posZ": 13.7769022,
+      "rotX": 0.0008276211,
+      "rotY": 239.968567,
+      "rotZ": 0.00145302142,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "Lava Mound [Light Cover][Area Terrain]",
+    "Description": "Light Cover:\nNon-Creature Troopers\n\nMound:\nTrooper - Difficult\nG. Vehicle - Open\nRepulsor - Open\n\nTroopers only get cover if they are fully within this terrain.\n\nDoes not obscure LOS",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomMesh": {
+      "MeshURL": "http://cloud-3.steamusercontent.com/ugc/785234540542465659/30348E08551EAA3E8D5164E0D2931B3EB72DCEC1/",
+      "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/785234540542468274/D98D7C685AF68524FD683264F9A57C049E220C93/",
+      "NormalURL": "",
+      "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/785234540542467139/4036C31123FF00D2459B3ED1E57CD8141ACFAC8D/",
+      "Convex": true,
+      "MaterialIndex": 3,
+      "TypeIndex": 0,
+      "CastShadows": true
+    },
+    "LuaScript": "#include ./Lava_Mound_Light_Cover_Area_Terrain.e0cbd1.lua",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "GUID": "e0cbd1"
+  },
+  "StatesPaths": {}
+}

@@ -1,0 +1,51 @@
+{
+  "Object": {
+    "Name": "Bag",
+    "Transform": {
+      "posX": 33.51844,
+      "posY": 2.83470631,
+      "posZ": 25.7531967,
+      "rotX": 0.142292634,
+      "rotY": 0.0299209822,
+      "rotZ": 0.1252961,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "Craters and Mounds",
+    "Description": "",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0.7058823,
+      "g": 0.366520882,
+      "b": 0
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "MaterialIndex": -1,
+    "MeshIndex": -1,
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "ContainedObjects": [],
+    "GUID": "17cfd3"
+  },
+  "StatesPaths": {},
+  "ContainedObjectPaths": [
+    "Tall_Grass_Light_Cover_Area_Terrain.e503a3.json",
+    "Sand_Mound_Light_Cover.2fd85b.json",
+    "Ice_Mound_Light_Cover.0ee2d4.json",
+    "Mud_No_Cover.4c2ee3.json",
+    "Lava_Mound_Light_Cover.6d8967.json"
+  ]
+}

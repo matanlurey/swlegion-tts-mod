@@ -1,0 +1,51 @@
+{
+  "Object": {
+    "Name": "Custom_Model",
+    "Transform": {
+      "posX": 43.5875549,
+      "posY": 1.47756541,
+      "posZ": -15.4123535,
+      "rotX": 0.00234141,
+      "rotY": 90.0313644,
+      "rotZ": 0.008203179,
+      "scaleX": 0.950000048,
+      "scaleY": 0.950000048,
+      "scaleZ": 0.950000048
+    },
+    "Nickname": "Руины",
+    "Description": "INFANTRY получает укрытие находясь в руинах, остальные юниты - только если скрыто хотя бы 50% модели от атакующей вражеской модели. \n\nINFANTRY могут проходить через двери/окна/стены без задержки и обхода.\n\nЮниты VEHICLES,\r\nMONSTERS и BIKES, без ключевого слова FLY - не могут забраться выше первого этажа",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0.695583463,
+      "g": 0.695583463,
+      "b": 0.695583463
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomMesh": {
+      "MeshURL": "http://cloud-3.steamusercontent.com/ugc/84845043866284962/DF44FB2D51C20D0FFDF068827643AAFDC6127177/",
+      "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/84845043866287383/8F824D756CE2D8A0FD0E0129F3EEED21A29717F9/",
+      "NormalURL": "",
+      "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/84845043866284962/DF44FB2D51C20D0FFDF068827643AAFDC6127177/",
+      "Convex": false,
+      "MaterialIndex": 3,
+      "TypeIndex": 1,
+      "CastShadows": true
+    },
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "GUID": "dd4f62"
+  },
+  "StatesPaths": {}
+}

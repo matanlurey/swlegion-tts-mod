@@ -1,0 +1,106 @@
+{
+  "Object": {
+    "Name": "Deck",
+    "Transform": {
+      "posX": 53.5895081,
+      "posY": 3.11454,
+      "posZ": 28.968504,
+      "rotX": 0.250651062,
+      "rotY": 270.000916,
+      "rotZ": 0.422388881,
+      "scaleX": 0.83,
+      "scaleY": 1,
+      "scaleZ": 0.83
+    },
+    "Nickname": "Battlefield Deck",
+    "Description": "Not including Vital Assets or Skrimish mode. See the other infinite bags for those.",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": true,
+    "Hands": false,
+    "SidewaysCard": false,
+    "DeckIDs": [
+      32304,
+      32300,
+      32301,
+      32303,
+      32302,
+      32403,
+      32404,
+      32402,
+      32400,
+      32401,
+      32500,
+      32501,
+      32502,
+      32504,
+      32503
+    ],
+    "CustomDeck": {
+      "323": {
+        "FaceURL": "http://cloud-3.steamusercontent.com/ugc/786360308354562620/0C2ECE396486AE15BBDB92293BD7AFBFBEE3E7DB/",
+        "BackURL": "http://cloud-3.steamusercontent.com/ugc/786360308354562872/AF68672CC3B5A0A27A37FA0C02FD87F2210FAB86/",
+        "NumWidth": 3,
+        "NumHeight": 2,
+        "BackIsHidden": true,
+        "UniqueBack": false,
+        "Type": 0
+      },
+      "324": {
+        "FaceURL": "http://cloud-3.steamusercontent.com/ugc/952971429485053796/516E60D17F34AF54676A8A728236B53624E78516/",
+        "BackURL": "http://cloud-3.steamusercontent.com/ugc/786360308354563159/BDB495B60FFED8707BD013502C2F03D3F047B63E/",
+        "NumWidth": 3,
+        "NumHeight": 2,
+        "BackIsHidden": true,
+        "UniqueBack": false,
+        "Type": 0
+      },
+      "325": {
+        "FaceURL": "http://cloud-3.steamusercontent.com/ugc/785234780864105506/C25CC992198776A0C941BB10D1B7CCB675B24966/",
+        "BackURL": "http://cloud-3.steamusercontent.com/ugc/786360308354563381/FF7DF081311A20CC396CAC9391D85EB1FBCA44E1/",
+        "NumWidth": 3,
+        "NumHeight": 2,
+        "BackIsHidden": true,
+        "UniqueBack": false,
+        "Type": 0
+      }
+    },
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "ContainedObjects": [],
+    "GUID": "cf6716"
+  },
+  "StatesPaths": {},
+  "ContainedObjectPaths": [
+    "Major_Offensive.fa5d6c.32304.json",
+    "Battle_Lines.280810.32300.json",
+    "Disarray.250217.32301.json",
+    "Advanced_Positions.fa5d6c.32303.json",
+    "The_Long_March.e7e1fa.32302.json",
+    "Sabotage_the_Moisture_Vaporators.609356.32403.json",
+    "Recover_the_Supplies.2a4ad0.32404.json",
+    "Key_Positions.03c943.32402.json",
+    "Breakthrough.2a4ad0.32400.json",
+    "Intercept_the_Transmissions.8a8bf7.32401.json",
+    "Clear_Conditions.2629fd.32500.json",
+    "Hostile_Environment.53a991.32501.json",
+    "Limited_Visibility.ee91b3.32502.json",
+    "Minefield.2629fd.32504.json",
+    "Rapid_Reinforcements.feb0ca.32503.json"
+  ]
+}

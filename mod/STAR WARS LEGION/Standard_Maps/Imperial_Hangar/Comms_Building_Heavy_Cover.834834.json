@@ -1,0 +1,51 @@
+{
+  "Object": {
+    "Name": "Custom_Model",
+    "Transform": {
+      "posX": 14.7947464,
+      "posY": 1.443346,
+      "posZ": 2.734184,
+      "rotX": -0.000079638834,
+      "rotY": 270.005524,
+      "rotZ": -0.0003168286,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "Comms Building [Heavy Cover]",
+    "Description": "Heavy Cover:\nMini size 5 and below\n\nSides:\nAll - Impassable\nMinis with size > 5 treat this as difficult terrain\n\nRoof:\nAll - Open\n\nHeight: 1\n\nUnits can clamber up the ladder without rolling for falling damage\n\nSpecial Thanks: www.imperialterrain.com",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0.4092941,
+      "g": 0.411621332,
+      "b": 0.412890732
+    },
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomMesh": {
+      "MeshURL": "http://cloud-3.steamusercontent.com/ugc/785234540546356782/8195EFC424B95DCA39BD1B08C334254797DB678D/",
+      "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/785234540546356900/4491861CB02437B780521280B086BD4CC4E29585/",
+      "NormalURL": "",
+      "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/785234540546357201/EBEE0E44093DFD5FEEF4F7B5F49172F7E34071BD/",
+      "Convex": false,
+      "MaterialIndex": 3,
+      "TypeIndex": 0,
+      "CastShadows": true
+    },
+    "LuaScript": "#include ./Comms_Building_Heavy_Cover.834834.lua",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "GUID": "834834"
+  },
+  "StatesPaths": {}
+}

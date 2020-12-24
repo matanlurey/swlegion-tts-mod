@@ -1,0 +1,55 @@
+{
+  "Object": {
+    "Name": "Bag",
+    "Transform": {
+      "posX": 60.0403481,
+      "posY": 7.462342,
+      "posZ": 0.4528655,
+      "rotX": -1.24170985e-8,
+      "rotY": 0.000553021964,
+      "rotZ": 1.83371085e-9,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "Hills",
+    "Description": "",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0.7058823,
+      "g": 0.366520882,
+      "b": 0
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "MaterialIndex": -1,
+    "MeshIndex": -1,
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "ContainedObjects": [],
+    "GUID": "3cb311"
+  },
+  "StatesPaths": {},
+  "ContainedObjectPaths": [
+    "Small_Cliff_Light_Cover.857a9c.json",
+    "Small_Cliff_Light_Cover.9f71fb.json",
+    "Small_Cliff_Light_Cover.f98152.json",
+    "Small_Cliff_Light_Cover.a9060d.json",
+    "Small_Cliff_Light_Cover.af71f8.json",
+    "Small_Cliff_Light_Cover.36cd87.json",
+    "Small_Cliff_Light_Cover.f5aa32.json",
+    "Small_Cliff_Light_Cover.3de011.json",
+    "Small_Cliff_Light_Cover.b2c075.json"
+  ]
+}

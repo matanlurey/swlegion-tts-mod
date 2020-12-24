@@ -1,0 +1,50 @@
+{
+  "Object": {
+    "Name": "Custom_Model",
+    "Transform": {
+      "posX": 16.8092,
+      "posY": 1.54183233,
+      "posZ": 0.506903648,
+      "rotX": 358.6553,
+      "rotY": 27.1259766,
+      "rotZ": 358.379272,
+      "scaleX": 0.63,
+      "scaleY": 0.63,
+      "scaleZ": 0.6250026
+    },
+    "Nickname": "Lava [No Cover]",
+    "Description": "Trooper: Difficult\nGround Vehicle: Difficult\nRepulsor: Open\n\nNon-Repulsor units that enter, cross or leave this terrain roll one White Defence Die per mini; on a Block result the unit suffers one wound.\n\nNon-Repulsor units may instead spend 2 actions to move over this terrain without rolling for damage.",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0.808798552,
+      "g": 0.808798552,
+      "b": 0.808798552
+    },
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "Hands": false,
+    "CustomMesh": {
+      "MeshURL": "http://cloud-3.steamusercontent.com/ugc/785234780858800202/77A592BEBDD717E2187532A5A07A1B82DC57C92D/",
+      "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/785234780858782119/3CEBB0F57CE5C4275DB77D024D2032FD32D8843B/",
+      "NormalURL": "",
+      "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/785234780858800202/77A592BEBDD717E2187532A5A07A1B82DC57C92D/",
+      "Convex": false,
+      "MaterialIndex": 3,
+      "TypeIndex": 0,
+      "CastShadows": true
+    },
+    "LuaScript": "#include ./Lava_No_Cover.0aa9d8.lua",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "GUID": "0aa9d8"
+  },
+  "StatesPaths": {}
+}

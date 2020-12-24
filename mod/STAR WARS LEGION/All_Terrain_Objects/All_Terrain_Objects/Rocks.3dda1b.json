@@ -1,0 +1,49 @@
+{
+  "Object": {
+    "Name": "Bag",
+    "Transform": {
+      "posX": 50.4648323,
+      "posY": 2.819086,
+      "posZ": 34.96991,
+      "rotX": 0.0123604033,
+      "rotY": 359.993073,
+      "rotZ": 1.11558568,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "Rocks",
+    "Description": "",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0.7058823,
+      "g": 0.366520882,
+      "b": 0
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "MaterialIndex": -1,
+    "MeshIndex": -1,
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "ContainedObjects": [],
+    "GUID": "3dda1b"
+  },
+  "StatesPaths": {},
+  "ContainedObjectPaths": [
+    "Rock_Formation_Light_Cover.15e918.json",
+    "Rock_Formation_Heavy_Cover.9d05f9.json",
+    "Rock_Formation_Heavy_Cover.25c635.json"
+  ]
+}

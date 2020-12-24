@@ -1,0 +1,48 @@
+{
+  "Object": {
+    "Name": "Bag",
+    "Transform": {
+      "posX": 40.3206,
+      "posY": 1.12408507,
+      "posZ": -1.4775182,
+      "rotX": -0.0000020360435,
+      "rotY": -0.0008817145,
+      "rotZ": 7.887556e-7,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "Refinery Set",
+    "Description": "",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0.7058823,
+      "g": 0.366520882,
+      "b": 0
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "MaterialIndex": -1,
+    "MeshIndex": -1,
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "ContainedObjects": [],
+    "GUID": "f4c9a2"
+  },
+  "StatesPaths": {},
+  "ContainedObjectPaths": [
+    "Fuel_Storage_Cell_Heavy_Cover.d83d4c.json",
+    "Refinery_Processor_Heavy_Cover.b46a3e.json"
+  ]
+}

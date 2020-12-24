@@ -1,0 +1,40 @@
+{
+  "Object": {
+    "Name": "Notecard",
+    "Transform": {
+      "posX": 19.646841,
+      "posY": 1.51038289,
+      "posZ": -13.75631,
+      "rotX": 0.00159506151,
+      "rotY": 0.0134821823,
+      "rotZ": -1.04996737e-7,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "Scarif Map Notes",
+    "Description": "Outpost Walls now are now height 2 with the catwalk being height 1\n\nTo put your minis on different levels of the walkway, right click on the walkway, then click \"State\" and select the corresponding number.\n\nMake sure that Physics is set to Locked.\nGo to Menu -> Configuration -> Physics -> Locked",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "Hands": false,
+    "LuaScript": "#include ./Scarif_Map_Notes.67adad.lua",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "GUID": "67adad"
+  },
+  "StatesPaths": {}
+}
